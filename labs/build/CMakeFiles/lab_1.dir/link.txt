@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/lab_1.dir/main.cpp.o -o bin/lab_1   -L"/home/ashwin/Documents/uni/3/tri1/Games Engineering/set09121-Learn/labs/build/lib/SFML/lib"  -Wl,-rpath,"/home/ashwin/Documents/uni/3/tri1/Games Engineering/set09121-Learn/labs/build/lib/SFML/lib" lib/SFML/lib/libsfml-graphics.so.2.6.2 lib/SFML/lib/libsfml-window.so.2.6.2 lib/SFML/lib/libsfml-system.so.2.6.2 
